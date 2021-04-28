@@ -1,0 +1,6 @@
+{
+    "name": "zappan/mysqli_lib",
+    "description": "Mysqli Handler",
+    "type": "library",
+    "require": {}
+}
